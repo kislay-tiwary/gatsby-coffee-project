@@ -6,5 +6,10 @@
 
 module.exports = {
   /* Your site config here */
+  siteMetadata: {
+    title: `Coffee Project`,
+    siteUrl: `https://www.gatsbyjs.com`,
+    description: `Blazing fast modern coffee website`,
+  },
   plugins: [],
 }
